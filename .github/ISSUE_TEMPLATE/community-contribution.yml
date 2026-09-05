@@ -1,0 +1,40 @@
+name: "Make a community contribution"
+description: "Contribute to MPS Model & System Descriptors without needing to write code."
+title: "[Make a community contribution] "
+labels:
+  - "community contribution"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping build PhysioVerse. Complete what you know. Programming experience is not required.
+  - type: input
+    id: summary
+    attributes:
+      label: "Contribution"
+      description: "Give your contribution a short, descriptive title."
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: "Details"
+      description: "Provide the information, evidence, example, definition, dataset, protocol, or suggestion you would like the community to consider."
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: "Public source, DOI, accession, or reference"
+      description: "Add a public reference when available."
+  - type: textarea
+    id: relevance
+    attributes:
+      label: "Why is this useful for the MPS community?"
+  - type: checkboxes
+    id: public
+    attributes:
+      label: "Public contribution"
+      options:
+        - label: "I understand that this contribution and discussion will be public on GitHub."
+          required: true
