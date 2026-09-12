@@ -91,3 +91,12 @@ Describe a source-linked model comparison without inferring missing attributes o
 
 Include public source links and identify missing information. Submit the completed template through the linked Issue Form or a pull request.
 <!-- physioverse:task-update-v14:practical-template:end -->
+
+
+<!-- physioverse:task-update-v14:cim-proposal:start -->
+## Common Information Model Proposal
+
+Review shared concepts and relationships for MPS models, experiments, assays, measurements, and supporting evidence. The initial class diagram is a community proposal, not an adopted standard or an implemented exchange schema.
+
+**[Explore the CIM proposal](docs/common-information-model/README.md)** | **[Review a class, field, or relationship](https://github.com/PhysioVerse-OSE/mps-model-system-descriptors/issues/new?template=cim-proposal-review.yml)**
+<!-- physioverse:task-update-v14:cim-proposal:end -->
