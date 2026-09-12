@@ -80,3 +80,23 @@ Only share information that can be discussed publicly. Do not submit confidentia
 [Visit PhysioVerse](https://physioverse.org/) ·
 [Explore the PhysioVerse GitHub profile](https://github.com/PhysioVerse-OSE) ·
 [Start contributing](https://github.com/PhysioVerse-OSE/PhysioVerse-OSE/blob/main/START_CONTRIBUTING.md)
+
+
+<!-- physioverse:task-update-v14:practical-template:start -->
+## Practical Contribution Template
+
+Describe a source-linked model comparison without inferring missing attributes or inventing a ranking.
+
+**[Open the template](docs/community-tasks/MODEL_COMPARISON_TEMPLATE.md)** | **[Submit your contribution](https://github.com/PhysioVerse-OSE/mps-model-system-descriptors/issues/new?template=community-contribution.yml)**
+
+Include public source links and identify missing information. Submit the completed template through the linked Issue Form or a pull request.
+<!-- physioverse:task-update-v14:practical-template:end -->
+
+
+<!-- physioverse:task-update-v14:cim-proposal:start -->
+## Common Information Model Proposal
+
+Review shared concepts and relationships for MPS models, experiments, assays, measurements, and supporting evidence. The initial class diagram is a community proposal, not an adopted standard or an implemented exchange schema.
+
+**[Explore the CIM proposal](docs/common-information-model/README.md)** | **[Review a class, field, or relationship](https://github.com/PhysioVerse-OSE/mps-model-system-descriptors/issues/new?template=cim-proposal-review.yml)**
+<!-- physioverse:task-update-v14:cim-proposal:end -->

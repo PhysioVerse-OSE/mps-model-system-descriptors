@@ -27,3 +27,10 @@ How should MPS model systems be described consistently without losing biological
 ## How to comment
 
 Use the repository issue forms to propose fields, definitions, evidence, mappings, examples, or changes.
+
+
+<!-- physioverse:task-update-v14:draft-template-link:start -->
+## Supporting Review Template
+
+[Use the contribution template](docs/community-tasks/MODEL_COMPARISON_TEMPLATE.md) to provide definitions, source-linked evidence, and explicit review questions. It is a proposed review structure, not an adopted standard.
+<!-- physioverse:task-update-v14:draft-template-link:end -->

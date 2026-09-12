@@ -1,0 +1,46 @@
+name: Review the MPS information model
+description: Propose or review a class, relationship, field, mapping, or use case in the MPS CIM.
+title: "[CIM review] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Review the [CIM proposal](https://github.com/PhysioVerse-OSE/mps-model-system-descriptors/tree/main/docs/common-information-model) and choose a focused question. Programming experience is not required.
+  - type: input
+    id: concept
+    attributes:
+      label: Concept or review question
+      description: Name the class, field, relationship, or use case.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: MPS use case and current limitation
+      description: Explain the model, experiment, measurement, or data relationship that needs to be represented.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed revision or review feedback
+      description: Separate the current diagram, reported evidence, and your proposed change.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources and existing mappings
+      description: Add a public study, protocol, vocabulary, standard, or metadata record when available. Note missing evidence explicitly.
+  - type: textarea
+    id: effects
+    attributes:
+      label: Related concepts and open questions
+      description: Describe implications for other fields, units, identifiers, or model types.
+  - type: checkboxes
+    id: public
+    attributes:
+      label: Public contribution
+      options:
+        - label: I have not included confidential, proprietary, patient-identifiable, or restricted information.
+          required: true
