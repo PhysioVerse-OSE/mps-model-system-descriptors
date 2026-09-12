@@ -17,4 +17,4 @@ Link the relevant Issue, DOI, accession, protocol, standard, or other public evi
 - [ ] I did not include confidential, proprietary, patient-identifiable, or restricted information.
 - [ ] I identified uncertainty and did not infer unreported study details.
 
-After submitting, please send Mostafa this pull-request link so he can review it and coordinate the next step.
+Keep clarifications and revisions in this pull request.

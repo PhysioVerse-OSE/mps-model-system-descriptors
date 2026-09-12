@@ -51,4 +51,4 @@ A benchmark should retain its metric, reference population or tissue, preprocess
 
 State which comparison questions can be answered, which remain unresolved, and which additional evidence would be useful. Link the related [validation](https://github.com/PhysioVerse-OSE/mps-validation-framework) and [reproducibility](https://github.com/PhysioVerse-OSE/mps-reproducibility-commons) discussions rather than duplicate unsupported conclusions.
 
-After submitting an Issue or Pull Request, send Mostafa its link.
+Record source clarifications and proposed revisions in the relevant Issue or pull request.
